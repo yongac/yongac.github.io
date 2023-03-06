@@ -11,7 +11,7 @@ Here are some recent research items that my colleagues and I have published or r
 
 ## Under Review
 
-- **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Satisficing Paths and Independent Multi-Agent Reinforcement Learning in Stochastic Games." arXiv: 2110.04638 (2022). [arXiv](https://arxiv.org/abs/2110.04638) [pdf](http://academicpages.github.io/files/satisficing.pdf)
+- **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Satisficing Paths and Independent Multi-Agent Reinforcement Learning in Stochastic Games." arXiv: 2110.04638 (2022). [arXiv](https://arxiv.org/abs/2110.04638) [pdf](http://yongac.github.io/files/satisficing.pdf)
   * In the second round of reviews at the SIAM *Journal on Mathematics of Data Science*
 
 - **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Independent Learning in Mean-Field Games: Satisficing Paths and Convergence to Subjective Equilibria." arXiv: arXiv:2209.05703 (2022). [arXiv](https://arxiv.org/abs/2209.05703)
