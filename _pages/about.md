@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a recent PhD graduate and current post-doctoral fellow in the mathematics and statistics department at Queen's University in Kinston, Ontario.
+Hello! I'm a recent PhD graduate and current post-doctoral fellow in the mathematics and statistics department at Queen's University in Kingston, Ontario.
 
 My research considers multi-agent systems from a game theoretic point of view. I'm interested in how agents learn in the presence of other learning agents. Recently, I've also developed an interest in sample efficient reinforcement algorithms for partially observed environments.
 
