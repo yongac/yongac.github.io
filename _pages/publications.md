@@ -29,7 +29,7 @@ Here are some recent research items that my colleagues and I have published or r
 
 ## Conference Papers
 
-- A. Altabaa, **B. Yongacoglu**, and S. Yuksel. “Decentralized Multi-Agent Reinforcement Learning for Continuous-Space Stochastic Games." *American Control Conference 2023* (to appear).
+- A. Altabaa, **B. Yongacoglu**, and S. Yuksel. “Decentralized Multi-Agent Reinforcement Learning for Continuous-Space Stochastic Games." *American Control Conference 2023* (to appear). [Long Version] (https://yongac.github.io/files/Decentralized_MARL_Continuous_Spaces.pdf) 
 
 - **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Independent Learning and Subjectivity in Mean-Field Games." *2022 IEEE 61st Conference on Decision and Control (CDC)* (pp. 2845-2850). IEEE. [Link](https://ieeexplore.ieee.org/document/9992399)
 
