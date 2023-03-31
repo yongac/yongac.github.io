@@ -16,7 +16,7 @@ Here are some recent research items that my colleagues and I have published or r
 
 - **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Independent Learning in Mean-Field Games: Satisficing Paths and Convergence to Subjective Equilibria." arXiv: arXiv:2209.05703 (2022). [arXiv](https://arxiv.org/abs/2209.05703)
 
--  **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Asynchronous Decentralized Q-Learning in Stochastic Games." [Draft](https://yongac.github.io/files/asynchronous.pdf)
+- **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Asynchronous Decentralized Q-Learning in Stochastic Games." [Draft](https://yongac.github.io/files/asynchronous.pdf)
   - A shortened conference version of this paper has been submitted to CDC 2023. A longer version is forthcoming.  
 
 
