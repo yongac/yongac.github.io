@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a researcher and programmer interested in reinforcement learning for single- and multi-agent decision-making. In August 2023, I will be joining the ECE Department at the University of Toronto as a postdoctoral fellow, where I am excited to work with [Lacra Pavel](https://www.control.utoronto.ca/~pavel/) on learning in games. I previously received my PhD from the department of mathematics and statistics at Queen's University in Kingston, Ontario, where I was fortunate to be advised by [Serdar Yüksel](https://mast.queensu.ca/~yuksel/) and [Gürdal Arslan](http://www2.hawaii.edu/~gurdal/).
+Hello! I am a researcher and programmer interested in reinforcement learning for single- and multi-agent decision-making. I received my PhD from the department of mathematics and statistics at Queen's University in Kingston, Ontario, where I was fortunate to be advised by [Serdar Yüksel](https://mast.queensu.ca/~yuksel/) and [Gürdal Arslan](http://www2.hawaii.edu/~gurdal/).
+
+**News:** In August 2023, I will be joining the ECE Department at the University of Toronto as a postdoctoral fellow, where I am excited to work with [Lacra Pavel](https://www.control.utoronto.ca/~pavel/) on learning in games.
+
+
 
 For a list of papers and preprints, please check out my [publications page.](https://yongac.github.io/publications/)
 
