@@ -5,16 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here are some recent research items that my colleagues and I have published or released as pre-prints, in order of recency (more or less). If you are having trouble accessing any of these files, please email me and I'll be happy to send you a copy.
+Here are some recent research items that my colleagues and I have published or released as pre-prints. If you are having trouble accessing any of these files, please email me and I'll be happy to send you a copy.
 
-
-
-## Under Review
-
-- **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Independent Learning in Mean-Field Games: Satisficing Paths and Convergence to Subjective Equilibria." arXiv: arXiv:2209.05703 (2022). [arXiv](https://arxiv.org/abs/2209.05703)
-
-- **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Asynchronous Decentralized Q-Learning: Two Timescale Analysis By Persistence." [arXiv](https://arxiv.org/abs/2308.03239)
-  * An early version of this paper has been accepted for presentation at the 2023 edition if the [Conference on Decision and Control](https://cdc2023.ieeecss.org/).
 
 
 ## Journal Papers
@@ -38,4 +30,11 @@ Here are some recent research items that my colleagues and I have published or r
 
 - **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Decentralized Q-Learning with Constant Aspirations in Stochastic Games." *2019 53rd Asilomar Conference on Signals, Systems, and Computers* (pp. 1744-1749). IEEE. [Link](https://ieeexplore.ieee.org/document/9049021)
 
+
+## Under Review
+
+- **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Independent Learning in Mean-Field Games: Satisficing Paths and Convergence to Subjective Equilibria." arXiv: arXiv:2209.05703 (2022). [arXiv](https://arxiv.org/abs/2209.05703)
+
+- **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Asynchronous Decentralized Q-Learning: Two Timescale Analysis By Persistence." [arXiv](https://arxiv.org/abs/2308.03239)
+  * An early version of this paper has been accepted for presentation at the 2023 edition if the [Conference on Decision and Control](https://cdc2023.ieeecss.org/).
 
