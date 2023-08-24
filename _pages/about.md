@@ -37,7 +37,7 @@ Email: 1bmy (at) queensu.ca, bora.yongacoglu (at) utoronto.ca
 * Our paper ["Independent Learning and Subjectivity in Mean-Field Games"](https://ieeexplore.ieee.org/document/9992399) has been awarded an **Outstanding Student Paper Prize** by the *2023 Networks and Communication Systems Technical Committee*!
 * (June 26th-July 5th) I attended the (wonderful) [Reinforcement Learning Summer School](https://rlsummerschool.com/) at the Universitat Pompeu Fabra in Barcelona.
 * (May 3rd, 2023) I gave a talk on learning in stochastic and mean-field games at [9th Meeting on System and Control Theory](https://ece.uwaterloo.ca/~cnielsen/MSCT/2023/) in Waterloo.
-* Our [paper](https://arxiv.org/abs/2110.04638) on the structure and algorithmic consequences of $\epsilon$-satisficing paths in stochastic games was accepted for publication to SIAM Journal on Mathematics of Data Science.
+* Our [paper](https://epubs.siam.org/doi/abs/10.1137/22M1515112) on the structure and algorithmic consequences of $\epsilon$-satisficing paths in stochastic games was accepted for publication to SIAM Journal on Mathematics of Data Science.
 * (February 15, 2023) I delivered a [talk](https://www.gerad.ca/en/events/2062) in the GERAD seminar at Polytechnique Montreal about some work on learning dynamics in games.
 
 
