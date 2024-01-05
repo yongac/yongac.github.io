@@ -29,13 +29,16 @@ For a complete list of papers and preprints, please check out my [publications p
 
 If you're interested in collaborating or have any technical questions about my work, please reach out!
 
-Email: 1bmy (at) queensu.ca, bora.yongacoglu (at) utoronto.ca
+Email: 
+- (preferred) bora.yongacoglu (at) utoronto.ca
+- (previously) 1bmy (at) queensu.ca
 
 
 ## News:
-* An early version of our paper on [asynchronous decentralized Q-learning](https://arxiv.org/abs/2308.03239) was accepted to the 2023 Conference on Decision and Control.
+* (December 14, 2023) I travelled to Singapore to present work on  [asynchronous decentralized Q-learning](https://arxiv.org/abs/2308.03239) at the [2023 Conference on Decision and Control](https://cdc2023.ieeecss.org/).
+* (December 3, 2023) I presented some results on $n$-player mean-field games at the [Canadian Mathematics Society Winter Meeting in Montreal](https://www2.cms.math.ca/Events/winter23/schedule_session#sct).  
 * Our paper ["Independent Learning and Subjectivity in Mean-Field Games"](https://ieeexplore.ieee.org/document/9992399) has been awarded an **Outstanding Student Paper Prize** by the *2023 Networks and Communication Systems Technical Committee*!
-* (June 26th-July 5th) I attended the (wonderful) [Reinforcement Learning Summer School](https://rlsummerschool.com/) at the Universitat Pompeu Fabra in Barcelona.
+* (June 26th-July 5th) I attended the [Reinforcement Learning Summer School](https://rlsummerschool.com/) at the Universitat Pompeu Fabra in Barcelona.
 * (May 3rd, 2023) I gave a talk on learning in stochastic and mean-field games at [9th Meeting on System and Control Theory](https://ece.uwaterloo.ca/~cnielsen/MSCT/2023/) in Waterloo.
 * Our [paper](https://epubs.siam.org/doi/abs/10.1137/22M1515112) on the structure and algorithmic consequences of $\epsilon$-satisficing paths in stochastic games was accepted for publication to SIAM Journal on Mathematics of Data Science.
 * (February 15, 2023) I delivered a [talk](https://www.gerad.ca/en/events/2062) in the GERAD seminar at Polytechnique Montreal about some work on learning dynamics in games.
