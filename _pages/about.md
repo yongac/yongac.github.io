@@ -17,7 +17,7 @@ Prior to moving to the University of Toronto, I received my PhD from the departm
 
 **Research Interests:** 
 - learning in games
-- multi-agentreinforcement learning  
+- multi-agent reinforcement learning  
 - mean-field games
 
 For a complete list of papers and preprints, please check out my [publications page.](https://yongac.github.io/publications/)
