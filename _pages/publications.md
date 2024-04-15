@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here are some recent research items that my colleagues and I have published or released as pre-prints, listed (more or less) from newest to oldest. If you are having trouble accessing any of these files, please email me and I will send you a copy.
+Here are some recent research items that my colleagues and I have published or released as pre-prints, listed (more or less) from newest to oldest. If you are having trouble accessing any of these files, please email me and I will send you a copy. [A full list of my publications is also available on my Google Scholar profile.](https://scholar.google.com/citations?user=SbLefpQAAAAJ)
 
 Legend: (J) = journal, (C) = conference, (P) = pre-print  
 
