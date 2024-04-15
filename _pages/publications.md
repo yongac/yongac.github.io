@@ -5,20 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here are some recent research items that my colleagues and I have published or released as pre-prints, listed roughly in reverse chronological order. If you are having trouble accessing any of these files, please email me and I'll be happy to send you a copy.
+Here are some recent research items that my colleagues and I have published or released as pre-prints, listed (more or less) from newest to oldest. If you are having trouble accessing any of these files, please email me and I will send you a copy.
 
 Legend: (J) = journal, (C) = conference, (P) = pre-print  
 
+- (P) **Yongacoglu, B.**, G. Arslan, L. Pavel, and S. Yuksel. "Paths to Equilibrium in Normal-Form Games." (Submitted). [arXiv](https://arxiv.org/abs/2403.18079)
 
-- (C) **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Asynchronous Decentralized Q-Learning in Stochastic Games." *2023 IEEE 62nd Conference on Decision and Control (CDC)* (to appear). IEEE.
+- (P) **Yongacoglu, B.**, G. Arslan, L. Pavel, and S. Yuksel. "Generalizing Better Response Paths and Weakly Acyclic Games." (Submitted). [Link](https://arxiv.org/abs/2403.18086)
+
+- (C) **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Asynchronous Decentralized Q-Learning in Stochastic Games." *2023 IEEE Conference on Decision and Control (CDC).* [Link](https://ieeexplore.ieee.org/document/10383194)
 
 - (J) **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Satisficing Paths and Independent Multi-Agent Reinforcement Learning in Stochastic Games." *SIAM Journal on Mathematics of Data Science*. 2023. 5(3): pp. 745-773. [SIAM Link](https://epubs.siam.org/doi/abs/10.1137/22M1515112), [arXiv](https://arxiv.org/abs/2110.04638), [pdf](http://yongac.github.io/files/satisficing.pdf)
 
 - (P) **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Asynchronous Decentralized Q-Learning: Two Timescale Analysis By Persistence." [arXiv](https://arxiv.org/abs/2308.03239)
-  * An early version of this paper has been accepted for presentation at the 2023 edition if the [Conference on Decision and Control](https://cdc2023.ieeecss.org/).
+  * An early version of this paper was presented at the 2023 Conference on Decision and Control.
 
 
-- (C) A. Altabaa, **B. Yongacoglu**, and S. Yuksel. “Decentralized Multi-Agent Reinforcement Learning for Continuous-Space Stochastic Games." *American Control Conference 2023* (to appear). [arXiv (full version)](https://arxiv.org/abs/2303.13539)
+- (C) A. Altabaa, **B. Yongacoglu**, and S. Yuksel. “Decentralized Multi-Agent Reinforcement Learning for Continuous-Space Stochastic Games." *2023 American Control Conference (ACC).* [Link](https://ieeexplore.ieee.org/document/10155828)
 
 
 - (C) **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Independent Learning and Subjectivity in Mean-Field Games." *2022 IEEE 61st Conference on Decision and Control (CDC)* (pp. 2845-2850). IEEE. [Link](https://ieeexplore.ieee.org/document/9992399)
