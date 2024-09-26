@@ -7,7 +7,7 @@ author_profile: true
 
 A list of my publications can be found below, listed (more or less) from newest to oldest. If you are having trouble accessing any of these files, please email me and I will send you a copy. [A full list of my publications is also available on my Google Scholar profile.](https://scholar.google.com/citations?user=SbLefpQAAAAJ)
 
-Legend: <span style="color: blue;">(J) = journal</span>, <span style="color: green;">(C) = conference</span>, <span style="color: green;">(U) = under review</span>
+Legend: <span style="color: blue;">(J) = journal</span>, <span style="color: green;">(C) = conference</span>, <span style="color: orange;">(U) = under review</span>
 
 <br>
 
