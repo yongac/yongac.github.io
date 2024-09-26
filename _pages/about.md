@@ -31,6 +31,8 @@ If you're interested in collaborating or if you have any questions/comments you'
 
 
 ## News:
+* (September 2024) Our paper on mathematical structure relevant to learning in multi-agent systems, ["Paths to Equilibrium in Games"](https://arxiv.org/pdf/2403.18079), was accepted to NeurIPS 2024. See you in Vancouver! 
+* (July 2024) Our paper ["Generalizing Better Response Paths and Weakly Acyclic Games"](https://arxiv.org/pdf/2403.18086) was accepted for publication at this year's Conference on Decision and Control in Milan, Italy!
 * (April 2024) I delivered a talk in the *Machine Learning and Mean Field Games* seminar series. [A recording is available on YouTube.](https://www.youtube.com/watch?v=wGgLhG2wzHg)
 * (March 2024) My co-authors and I have written two new papers on game theory, and their pre-prints are now available on arXiv: [link to paper 1](https://arxiv.org/abs/2403.18079); [link to paper 2](https://arxiv.org/abs/2403.18086). These papers explore how the idea of "satisficing" appears in multi-agent reinforcement learning.
 * (December 2023) I travelled to Singapore to present work on  [asynchronous decentralized Q-learning](https://arxiv.org/abs/2308.03239) at the [2023 Conference on Decision and Control](https://cdc2023.ieeecss.org/).
