@@ -7,7 +7,7 @@ author_profile: true
 
 A list of my publications can be found below, listed (more or less) from newest to oldest. If you are having trouble accessing any of these files, please email me and I will send you a copy. [A full list of my publications is also available on my Google Scholar profile.](https://scholar.google.com/citations?user=SbLefpQAAAAJ)
 
-Legend: <font color='blue'>(J) = journal</font>, <font color='green'>(C) = conference</font>, <font color='orange'>(U) = under review</font>
+Legend: <span style="color: blue;">(J) = journal</span>, <font color='green'>(C) = conference</font>, <font color='orange'>(U) = under review</font>
 
 <br>
 
@@ -17,7 +17,7 @@ Legend: <font color='blue'>(J) = journal</font>, <font color='green'>(C) = confe
 
 - <font color='orange'>(U)</font>&nbsp;**Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Independent Learning in Mean-Field Games: Satisficing Paths and Convergence to Subjective Equilibria." *Submitted to the Journal of Machine Learning Research*. [arXiv](https://arxiv.org/abs/2209.05703)
 
-- <font color='blue'>(J)</font>&nbsp;**Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Satisficing Paths and Independent Multi-Agent Reinforcement Learning in Stochastic Games." *SIAM Journal on Mathematics of Data Science*. 2023. 5(3): pp. 745-773. [SIAM Link](https://epubs.siam.org/doi/abs/10.1137/22M1515112), [arXiv](https://arxiv.org/abs/2110.04638), [pdf](http://yongac.github.io/files/satisficing.pdf)
+- <span style="color: blue;">(J)</span> **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Satisficing Paths and Independent Multi-Agent Reinforcement Learning in Stochastic Games." *SIAM Journal on Mathematics of Data Science*. 2023. 5(3): pp. 745-773. [SIAM Link](https://epubs.siam.org/doi/abs/10.1137/22M1515112), [arXiv](https://arxiv.org/abs/2110.04638), [pdf](http://yongac.github.io/files/satisficing.pdf)
 
 
 
@@ -40,7 +40,7 @@ Legend: <font color='blue'>(J) = journal</font>, <font color='green'>(C) = confe
   * Awarded the 2023 Networks and Communication Systems Technical Committee's Outstanding Student Paper Prize
 
 
-- <font color='blue'>(J)</font>&nbsp;**Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Decentralized Learning for Optimality in Stochastic Dynamic Teams and Games with Local Control and Global State Information." *IEEE Transactions on Automatic Control.* 67, no. 10 (2022). [Link](https://ieeexplore.ieee.org/document/9580732)
+- <span style="color: blue;">(J)</span> **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Decentralized Learning for Optimality in Stochastic Dynamic Teams and Games with Local Control and Global State Information." *IEEE Transactions on Automatic Control.* 67, no. 10 (2022). [Link](https://ieeexplore.ieee.org/document/9580732)
 
  
 - <font color='green'>(C)</font>&nbsp;**Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Reinforcement Learning for Decentralized Stochastic Control." *2019 IEEE Conference on Decision and Control (CDC)*. [Link](https://ieeexplore.ieee.org/document/9030158)
