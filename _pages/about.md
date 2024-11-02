@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied mathematician and data science enthusiast currently working as a postdoctoral fellow with the Department of Electrical and Computer Engineering at the University of Toronto.
+I am an applied mathematician and machine learning researcher currently looking for opportunities in industry.
 
-My research interests revolve around strategy and decision making, and my work focuses primarily on game theory and multi-agent reinforcement learning. I am especially interested in settings where players must dynamically adapt to an evolving environment. 
+My research interests are varied and interdisciplinary, but mostly revolve around learning in the presence of other strategic agents. My prior work focused primarily on game theory and multi-agent reinforcement learning. 
 
-Prior to moving to the University of Toronto, I received my PhD from the department of mathematics and statistics at Queen’s University. 
+Most recently, I was a postdoctoral fellow with the Department of Electrical and Computer Engineering at the University of Toronto. Prior to that, I received my PhD in Mathematics from Queen’s University. 
 
 
 **Research Interests:** 
@@ -31,6 +31,7 @@ If you're interested in collaborating or if you have any questions/comments you'
 
 
 ## News:
+* (October 2024) Our paper ["Independent Learning in Mean-Field Games: Satisficing Paths and Convergence to Subjective Equilibria"](https://arxiv.org/abs/2209.05703) was accepted for publication in the *Journal of Machine Learning Research*. Stay tuned for updates! 
 * (September 2024) Our paper on mathematical structure relevant to learning in multi-agent systems, ["Paths to Equilibrium in Games"](https://arxiv.org/pdf/2403.18079), was accepted to NeurIPS 2024. See you in Vancouver! 
 * (July 2024) Our paper ["Generalizing Better Response Paths and Weakly Acyclic Games"](https://arxiv.org/pdf/2403.18086) was accepted for publication at this year's Conference on Decision and Control in Milan, Italy!
 * (April 2024) I delivered a talk in the *Machine Learning and Mean Field Games* seminar series. [A recording is available on YouTube.](https://www.youtube.com/watch?v=wGgLhG2wzHg)
