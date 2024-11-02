@@ -15,7 +15,7 @@ Legend: <span style="color: blue;">(J) = journal</span>, <span style="color: gre
 
 - <span style="color: green;">(C)</span> **Yongacoglu, B.**, G. Arslan, L. Pavel, and S. Yuksel. "Paths to Equilibrium in Games." *To appear at NeurIPS 2024 as a Spotlight paper*. [Link](https://arxiv.org/abs/2403.18079)
 
-- <span style="color: orange;">(U)</span> **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Independent Learning in Mean-Field Games: Satisficing Paths and Convergence to Subjective Equilibria." *Submitted to the Journal of Machine Learning Research*. [arXiv](https://arxiv.org/abs/2209.05703)
+- <span style="color: orange;">(U)</span> **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Independent Learning in Mean-Field Games: Satisficing Paths and Convergence to Subjective Equilibria." (To appear) *Journal of Machine Learning Research*. [arXiv](https://arxiv.org/abs/2209.05703)
 
 - <span style="color: blue;">(J)</span> **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Satisficing Paths and Independent Multi-Agent Reinforcement Learning in Stochastic Games." *SIAM Journal on Mathematics of Data Science*. 2023. 5(3): pp. 745-773. [SIAM Link](https://epubs.siam.org/doi/abs/10.1137/22M1515112), [arXiv](https://arxiv.org/abs/2110.04638), [pdf](http://yongac.github.io/files/satisficing.pdf)
 
