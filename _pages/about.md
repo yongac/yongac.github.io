@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bora Yongacoglu"
+title: "Bora Yongacoglu -- at NeurIPS 2024 in Vancouver!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied mathematician and machine learning researcher currently looking for opportunities in industry.
+I’m an applied mathematician and machine learning researcher based in Ontario, Canada. I’m currently on the industry job market and looking for new collaborations and projects. 
 
-My research interests are varied and interdisciplinary, but mostly revolve around learning in the presence of other strategic agents. My prior work focused primarily on game theory and multi-agent reinforcement learning. 
+My research interests are varied and interdisciplinary, but mostly revolve around multi-agent learning and game theory. I am especially interested in adversarial machine learning and alignment.
 
 Most recently, I was a postdoctoral fellow with the Department of Electrical and Computer Engineering at the University of Toronto. Prior to that, I received my PhD in Mathematics from Queen’s University. 
 
@@ -42,11 +42,4 @@ If you're interested in collaborating or if you have any questions/comments you'
 * (May 2023) I gave a talk on learning in stochastic and mean-field games at [9th Meeting on System and Control Theory](https://ece.uwaterloo.ca/~cnielsen/MSCT/2023/) in Waterloo.
 * Our [paper](https://epubs.siam.org/doi/abs/10.1137/22M1515112) on the structure and algorithmic consequences of $\epsilon$-satisficing paths in stochastic games was accepted for publication to SIAM Journal on Mathematics of Data Science.
 * (February 2023) I delivered a [talk](https://www.gerad.ca/en/events/2062) in the GERAD seminar at Polytechnique Montreal about some work on learning dynamics in games.
-
-
-
-
-
-
-
 
