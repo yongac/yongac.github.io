@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bora Yongacoglu -- at NeurIPS 2024 in Vancouver!"
+title: "Bora Yongacoglu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 I’m an applied mathematician and machine learning researcher based in Ontario, Canada. I’m currently on the industry job market and looking for new collaborations and projects. 
 
-My research interests are varied and interdisciplinary, but mostly revolve around multi-agent learning and game theory. These days, I am especially interested in adversarial machine learning and alignment.
+My research interests are varied and interdisciplinary, but mostly revolve around multi-agent learning and game theory. 
 
 Most recently, I was a postdoctoral fellow with the Department of Electrical and Computer Engineering at the University of Toronto. Prior to that, I received my PhD in Mathematics from Queen’s University. 
 
