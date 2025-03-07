@@ -31,8 +31,10 @@ If you're interested in collaborating or if you have any questions/comments you'
 
 
 ## News:
-* (October 2024) Our paper ["Independent Learning in Mean-Field Games: Satisficing Paths and Convergence to Subjective Equilibria"](https://arxiv.org/abs/2209.05703) was accepted for publication in the *Journal of Machine Learning Research*. Stay tuned for updates! 
-* (September 2024) Our paper on mathematical structure relevant to learning in multi-agent systems, ["Paths to Equilibrium in Games"](https://arxiv.org/pdf/2403.18079), was accepted to NeurIPS 2024. See you in Vancouver! 
+* (February 2024) Our paper ["Unsynchronized Decentralized Q-Learning: Two Timescale Analysis By Persistence"](https://arxiv.org/abs/2308.03239) has been accepted for publication in SIAM Journal on Control and Optimization! Stay tuned for updates!
+* (October 2024) Our paper ["Mean-Field Games With Finitely Many Players:
+Independent Learning and Subjectivity"](https://www.jmlr.org/papers/volume25/22-1207/22-1207.pdf) was accepted for publication in the *Journal of Machine Learning Research*!
+* (September 2024) Our paper on mathematical structure relevant to learning in multi-agent systems, ["Paths to Equilibrium in Games"](https://neurips.cc/virtual/2024/poster/95556), was accepted to NeurIPS 2024. See you in Vancouver! 
 * (July 2024) Our paper ["Generalizing Better Response Paths and Weakly Acyclic Games"](https://arxiv.org/pdf/2403.18086) was accepted for publication at this year's Conference on Decision and Control in Milan, Italy!
 * (April 2024) I delivered a talk in the *Machine Learning and Mean Field Games* seminar series. [A recording is available on YouTube.](https://www.youtube.com/watch?v=wGgLhG2wzHg)
 * (March 2024) My co-authors and I have written two new papers on game theory, and their pre-prints are now available on arXiv: [link to paper 1](https://arxiv.org/abs/2403.18079); [link to paper 2](https://arxiv.org/abs/2403.18086). These papers explore how the idea of "satisficing" appears in multi-agent reinforcement learning.
