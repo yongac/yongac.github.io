@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I’m an applied mathematician and machine learning researcher based in Ontario, Canada. I’m currently on the industry job market and looking for new collaborations and projects. 
+I’m an applied mathematician and machine learning researcher at the Montreal Institute of Learning Algorithms.
 
 My research interests are varied and interdisciplinary, but mostly revolve around multi-agent learning and game theory. 
 
-Most recently, I was a postdoctoral fellow with the Department of Electrical and Computer Engineering at the University of Toronto. Prior to that, I received my PhD in Mathematics from Queen’s University. 
+Before moving to Mila, I was a postdoctoral fellow with the Department of Electrical and Computer Engineering at the University of Toronto. Prior to that, I received my PhD in Mathematics from Queen’s University. 
 
 
 **Research Interests:** 
@@ -26,12 +26,13 @@ For a complete list of papers and preprints, please check out my [publications p
 
 ## Contact:
 
-If you're interested in collaborating or if you have any questions/comments you'd like to share, you can reach me by email at bora.yongacoglu (at) utoronto.ca
+If you're interested in collaborating or if you have any questions/comments you'd like to share, you can reach me by email at bora.yongacoglu (at) mila.quebec
 
 
 
 ## News:
-* (February 2024) Our paper ["Unsynchronized Decentralized Q-Learning: Two Timescale Analysis By Persistence"](https://arxiv.org/abs/2308.03239) has been accepted for publication in SIAM Journal on Control and Optimization! Stay tuned for updates!
+* (May 2025) I've moved to Montreal!
+* (February 2025) Our paper ["Unsynchronized Decentralized Q-Learning: Two Timescale Analysis By Persistence"](https://arxiv.org/abs/2308.03239) has been accepted for publication in SIAM Journal on Control and Optimization! Stay tuned for updates!
 * (October 2024) Our paper ["Mean-Field Games With Finitely Many Players:
 Independent Learning and Subjectivity"](https://www.jmlr.org/papers/volume25/22-1207/22-1207.pdf) was accepted for publication in the *Journal of Machine Learning Research*!
 * (September 2024) Our paper on mathematical structure relevant to learning in multi-agent systems, ["Paths to Equilibrium in Games"](https://neurips.cc/virtual/2024/poster/95556), was accepted to NeurIPS 2024. See you in Vancouver! 
