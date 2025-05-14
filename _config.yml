@@ -83,11 +83,11 @@ author:
   name             : "Bora Yongacoglu"
   avatar           : "by_face.jpg"
   bio              : "Researcher investigating game theory, optimization, and reinforcement learning."
-  location         : "Toronto, ON, Canada"
-  employer         : University of Toronto
+  location         : "Montreal, QC, Canada"
+  employer         : Montreal Institute of Learning Algorithms
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : bora.yongacoglu@utoronto.ca
+  email            : bora.yongacoglu@mila.quebec
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
