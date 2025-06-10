@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m an applied mathematician and machine learning researcher at the Montreal Institute of Learning Algorithms.
+I’m an applied mathematician and machine learning researcher affiliated with Université de Montréal and Mila, the Quebec Artificial Intelligence Institute. 
 
-My research interests are varied and interdisciplinary, but mostly revolve around multi-agent learning and game theory. 
+My research interests centre on multi-agent systems and game theory, recently with a focus on learning to cooperate in social dilemmas. These problems are interesting to me as they require agents to learn to cooperate with other players that act in good faith, but agents must also learn to resist exploitation by players who attempt to deceive and manipulate them. Naturally, understanding how agents can and should learn such policies will have important implications for designing robust, safe multi-agent AI systems. 
 
 Before moving to Mila, I was a postdoctoral fellow with the Department of Electrical and Computer Engineering at the University of Toronto. Prior to that, I received my PhD in Mathematics from Queen’s University. 
 
