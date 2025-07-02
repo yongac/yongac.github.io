@@ -25,7 +25,7 @@ Legend: <span style="color: blue;">(J) = journal</span>, <span style="color: gre
 
 ## Control and Optimization
 
-- <span style="color: blue;">(J)</span> **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Unsynchronized Decentralized Q-Learning: Two Timescale Analysis By Persistence." *To appear in SIAM Journal of Control and Optimization*. [arXiv](https://arxiv.org/abs/2308.03239)
+- <span style="color: blue;">(J)</span> **Yongacoglu, B.**, G. Arslan, and S. Yuksel. “Unsynchronized Decentralized Q-Learning: Two Timescale Analysis By Persistence." *SIAM Journal of Control and Optimization*. [Link](https://epubs.siam.org/doi/10.1137/23M1592559) [Preprint (arXiv)](https://arxiv.org/abs/2308.03239)
   * An early version of this paper was presented at the 2023 Conference on Decision and Control.
 
 - <span style="color: green;">(C)</span> **Yongacoglu, B.**, G. Arslan, L. Pavel, and S. Yuksel. "Generalizing Better Response Paths and Weakly Acyclic Games." *Appeared at 2024 IEEE Conference on Decision and Control (CDC)*. [Link](https://ieeexplore.ieee.org/document/10886446) [arXiv](https://arxiv.org/abs/2403.18086)
