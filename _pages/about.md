@@ -31,8 +31,8 @@ If you're interested in collaborating or if you have any questions/comments you'
 
 
 ## News:
+* (July 2025) Our paper ["Unsynchronized Decentralized Q-Learning: Two Timescale Analysis By Persistence"](https://epubs.siam.org/doi/10.1137/23M1592559) has been published in SIAM Journal on Control and Optimization!
 * (May 2025) I've moved to Montreal!
-* (February 2025) Our paper ["Unsynchronized Decentralized Q-Learning: Two Timescale Analysis By Persistence"](https://arxiv.org/abs/2308.03239) has been accepted for publication in SIAM Journal on Control and Optimization! Stay tuned for updates!
 * (October 2024) Our paper ["Mean-Field Games With Finitely Many Players:
 Independent Learning and Subjectivity"](https://www.jmlr.org/papers/volume25/22-1207/22-1207.pdf) was accepted for publication in the *Journal of Machine Learning Research*!
 * (September 2024) Our paper on mathematical structure relevant to learning in multi-agent systems, ["Paths to Equilibrium in Games"](https://neurips.cc/virtual/2024/poster/95556), was accepted to NeurIPS 2024. See you in Vancouver! 
