@@ -10,11 +10,7 @@ redirect_from:
 
 I am an applied mathematician who specializes in multi-agent systems and game theory.
 
-<br> 
-
 I received my PhD from Queen's University under the supervision of Serdar Yüksel and Gürdal Arslan (University of Hawaii). After Queen's, I had the pleasure of doing postdoctoral fellowships at the University of Toronto, where I was mentored by Lacra Pavel, and at Mila, where I was mentored by Gauthier Gidel.
-
-<br> 
 
 **Current Interests:** 
 - learning in games
