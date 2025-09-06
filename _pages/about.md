@@ -8,26 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I’m an applied mathematician and machine learning researcher affiliated with Université de Montréal and Mila, the Quebec Artificial Intelligence Institute. 
+I am an applied mathematician who specializes in multi-agent systems and game theory.
 
-My research interests centre on multi-agent systems and game theory, recently with a focus on learning to cooperate in social dilemmas. These problems are interesting to me as they require agents to learn to cooperate with other players that act in good faith, but agents must also learn to resist exploitation by players who attempt to deceive and manipulate them. Naturally, understanding how agents can and should learn such policies will have important implications for designing robust, safe multi-agent AI systems. 
+<br> 
 
-Before moving to Mila, I was a postdoctoral fellow with the Department of Electrical and Computer Engineering at the University of Toronto. Prior to that, I received my PhD in Mathematics from Queen’s University. 
+I received my PhD from Queen's University under the supervision of Serdar Yüksel and Gürdal Arslan (University of Hawaii). After Queen's, I had the pleasure of doing postdoctoral fellowships at the University of Toronto, where I was mentored by Lacra Pavel, and at Mila, where I was mentored by Gauthier Gidel.
 
+<br> 
 
-**Research Interests:** 
+**Current Interests:** 
 - learning in games
 - multi-agent reinforcement learning  
-- mean-field games
+- large-scale auctions
+- mechanism design for online auctions 
+
+<br> 
 
 For a complete list of papers and preprints, please check out my [publications page.](https://yongac.github.io/publications/)
-
-
-
-## Contact:
-
-If you're interested in collaborating or if you have any questions/comments you'd like to share, you can reach me by email at bora.yongacoglu (at) mila.quebec
-
 
 
 ## News:
