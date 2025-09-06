@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Bora Yongacoglu"
   avatar           : "by_face.jpg"
-  bio              : "Researcher investigating game theory, optimization, and reinforcement learning."
-  location         : "Montreal, QC, Canada"
-  employer         : Mila - Quebec AI Institute
+  bio              : "Applied mathematician specializing in multi-agent systems and game theory"
+  location         : "Canada"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : bora.yongacoglu@mila.quebec
